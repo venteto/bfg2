@@ -1,0 +1,5 @@
+Flask~=2.3.3
+atproto~=0.0.37
+gunicorn~=21.2.0
+peewee~=3.16.3
+python-dotenv~=1.0.1

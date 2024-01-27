@@ -1,0 +1,13 @@
+**/*.md
+**/00_ignore_all/
+**/__pycache__/
+.dockerignore
+.envrc
+.flaskenv
+.git/
+.github/
+.gitignore
+.python-version
+Dockerfile
+data/other/
+fly.toml
